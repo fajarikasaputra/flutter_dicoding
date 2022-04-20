@@ -1,11 +1,9 @@
-import 'dart:ui';
-
-import 'package:coba_aplikasi/custom_color.dart';
 import 'package:flutter/material.dart';
+import 'custom_color.dart';
 
 TextStyle textContent = TextStyle(
   fontFamily: 'Poppins',
-  fontSize: 20,
+  fontSize: 16,
   color: whiteOne,
   fontWeight: FontWeight.w500,
 );
@@ -26,7 +24,7 @@ TextStyle avenirFont = TextStyle(
 
 TextStyle newPageColor = TextStyle(
   fontFamily: 'Poppins',
-  fontSize: 20,
+  fontSize: 16,
   color: darkBlue,
   fontWeight: FontWeight.w500,
 );
